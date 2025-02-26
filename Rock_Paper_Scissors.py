@@ -27,6 +27,7 @@ scissors = '''
       (____)
 ---.__(___)
 '''
+
 if user == 0:
     print(f"You choose: {rock}")
 elif user == 1:
